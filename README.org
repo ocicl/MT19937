@@ -1,0 +1,9 @@
+* MT19937
+
+Common Lisp Mersenne Twister implementation.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/DruidGreeneyes/MT19937.git |
+| commit  | 78f0419                                           |
+| systems | mt19937                                           |
+|---------+---------------------------------------------------|
